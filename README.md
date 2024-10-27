@@ -1,7 +1,21 @@
 # Secrets on Move
 
-Secrets on Move is a decentralized application (dApp) where users can anonymously leave secrets on the blockchain for a small fee of 0.01 MOVE. All secrets are stored on-chain, making them public but without linking them to any identifiable information. Additionally, users can view recent secrets left by others.
-Test it: https://secretsonmove.vercel.app/
+**Secrets on Move** is a decentralized application (dApp) that enables users to anonymously share secrets on the blockchain. This innovative platform ensures complete privacy while allowing users to contribute their stories to an immutable and public record. Here's how it works:
+
+- **Anonymity Guaranteed**: Users can leave secrets on the blockchain without linking any identifiable information, ensuring complete privacy for every submission.
+  
+- **On-Chain Storage**: Each secret is stored directly on-chain, making it public yet permanently anonymous. Once posted, it’s a part of blockchain history that can’t be altered or removed.
+
+- **Small Fee**: For a minimal cost of **0.01 MOVE**, users can post secrets securely, supporting the decentralized network and accessing a safe, anonymous outlet.
+
+- **View Recent Secrets**: Visitors can browse through the latest anonymous secrets posted by others, creating a space for shared hidden truths and collective stories.
+
+- **Immutable and Decentralized**: Built with blockchain technology, this app ensures that every secret posted remains secure, immutable, and free from censorship.
+
+
+
+**Try it out here**: [https://secretsonmove.vercel.app/](https://secretsonmove.vercel.app/)
+
 
 
 ## Features
